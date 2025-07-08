@@ -1,4 +1,6 @@
 📊 Blinkit Data Analysis – Power BI Dashboard Project
+
+
 This project presents a comprehensive end-to-end analysis of Blinkit's sales, marketing, and operational data using Microsoft Power BI. It delivers integrated insights into customer behavior, order trends, delivery performance, marketing effectiveness, inventory health, and product profitability.
 
 📌 Project Overview
